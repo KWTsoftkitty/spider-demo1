@@ -1,4 +1,7 @@
 class HelloWorld:
+    """
+    HelloWorld Object
+    """
     def __init__(self, name):
         self.name = name
 
